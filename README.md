@@ -1,4 +1,2 @@
 # MyQuickNote
-# MyQuickNote
-# MyQuickNote
-# MyQuickNote
+
